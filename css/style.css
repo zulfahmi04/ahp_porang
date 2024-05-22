@@ -2,31 +2,8 @@
 /* CSS Document */
 *{ 	margin:0px auto; }
 
-body{
-	/*font: 200 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;*/	
-	font: 200 14px/24px "Whitney SSm A", "Whitney SSm B", "Lucida Grande", "Lucida Sans", Verdana, Helvetica, Arial, sans-serif;	
-	color:#666;
-	background:#FFF;
-}
-
 a {
     text-decoration: none;
-}
-
-#paling_atas{
-	background-color:#1d9e74;
-	color:#FFF;	
-	min-height:20px;
-	padding:0.5em 5em 0.5em 4em;
-	font-size:20px;
-	text-align:center;
-}
-
-#atas{
-	background-color:#42444e;
-	color:#CCC;	
-	padding-top:0.5em;
-	text-align:center;
 }
 
 #atas .boundary{
